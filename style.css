@@ -1,39 +1,33 @@
 body {
     background-color: crimson;
 }
-.container{
-    width: 800px;
-    height: 790px;
- 
-    margin-left: 180px;
-    text-align: center;
-}
+
 
 .header {
 
 
 
-height: 100px;
+height: 150px;
 text-align: center;
 }
 .nav {
-   
+  
    text-align: center;
   
-    height: 30px;
+    height: 70px;
     margin-bottom: 10px;
    
 }
 .mesh {
-    width: 190px;
-   
+    width: 250px;
+ 
    
     height: 130px;
    margin-left: 2px;
     display: inline-block;
 }
 h1{
-    font-size: 30px;
+    font-size: 50px;
     font-family: cursive;
    
 }
@@ -44,13 +38,21 @@ img {
 }
 p {
     margin: 0%;
-    font-size: 15px;
+    font-size: 25px;
 }
 .logo{
-    width: 28px;
+    width: 75px;
 }
 button{
    
     height: 12px;
     font-size: 10px;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+    background-color: teal;
 }
